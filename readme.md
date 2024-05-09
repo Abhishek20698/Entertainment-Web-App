@@ -81,15 +81,14 @@
   - bcrypt
 
 # Deployment:-
-- Frontent:-https://entertainment-app-shnau.vercel.app/
-- Backend:-https://entertainment-app-backendshanu.vercel.app/
+- Frontent:https://entertainment-web-app-akfrontend.vercel.app/
+- Backend:https://entertainment-web-app-avbackend.vercel.app/
 
 # Getting Started
 - To get started with the development of this project, follow these steps:
 
 1. Clone this repository:-
 - git clone https://github.com/your-username/entertainment-app.git
-
 2. Install dependencies for both frontend and backend:-
 - cd frontend
 - npm install
@@ -150,4 +149,4 @@
 - **Middleware**: Includes middleware for authentication and error handling.
 - **Utils**: Helper functions for interacting with external APIs (`fetchDataUtils.js`) and customizing media response data (`customizeMediaResponse.js`).
 
-# Thank You ❤️
+# Thank You
