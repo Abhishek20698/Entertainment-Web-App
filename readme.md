@@ -89,6 +89,7 @@
 
 1. Clone this repository:-
 - git clone https://github.com/your-username/entertainment-app.git
+- My git repo for this project=https://github.com/Abhishek20698/Entertainment-Web-App.git
 2. Install dependencies for both frontend and backend:-
 - cd frontend
 - npm install
